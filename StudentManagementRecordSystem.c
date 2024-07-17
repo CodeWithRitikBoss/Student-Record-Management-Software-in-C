@@ -210,20 +210,20 @@ void Menu()
 {
     printf("\n\n\t***Student Management System Using C***\n\n");
     printf("\t\t\tMAIN MENU\n");
-    printf("\t\t=========================\n");
-    printf("\t\t[1]-> Add A New student.\n");
-    printf("\t\t[2]-> Show All students.\n");
-    printf("\t\t[3]-> Search A student.\n");
-    printf("\t\t[4]-> Edit A student.\n");
-    printf("\t\t[5]-> Delete A student.\n");
-    printf("\t\t[6]-> Delete All students.\n");
-    printf("\t\t[7]-> Clear The window.\n");
+    printf("\t\t=================================\n");
+    printf("\t\t[1]-> Add A New student Record.\n");
+    printf("\t\t[2]-> Show All students Record.\n");
+    printf("\t\t[3]-> Search A student Record.\n");
+    printf("\t\t[4]-> Edit A student Record.\n");
+    printf("\t\t[5]-> Delete A student Record.\n");
+    printf("\t\t[6]-> Delete All students Record.\n");
+    printf("\t\t[7]-> Clear Previous window.\n");
     printf("\t\t[8]-> User Guideline.\n");
     printf("\t\t[9]-> About Us.\n");
     printf("\t\t[0]-> Exit the Program.\n");
-    printf("\t\t=========================\n");
-    printf("\t\t=== Total student : %d ==\n", TotalStudents);
-    printf("\t\t=========================\n");
+    printf("\t\t=================================\n");
+    printf("\t\t======= Total student : %d ======\n", TotalStudents);
+    printf("\t\t=================================\n");
     printf("\t\tEnter The Choice: ");
 } // end menu.
 
